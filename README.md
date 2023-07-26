@@ -41,13 +41,26 @@ The project followed an Agile development methodology, allowing for iterative an
 
 The Landing website offered the following key features:
 
-- Home: Provided an overview of the website's capabilities and key features.
-- Why Choose Us: Highlighted the advantages of using Landing for landing page creation.
-- Overview: Detailed the functionalities and tools available to users.
-- Pricing: Presented various pricing plans for users to choose from.
-- FAQs: Addressed common queries and concerns through a comprehensive Frequently Asked Questions section.
-- Contact: Provided contact details for users to get in touch with the support team.
-- Login and Sign Up: Enabled users to create accounts and access additional features.
+# Home: Provided an overview of the website's capabilities and key features.
+  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/f2af5f1e-18e6-45d2-bf07-bcc84fc69214)
+  
+# Why Choose Us: Highlighted the advantages of using Landing for landing page creation.
+  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/3983e7d2-acaa-40ee-a539-320cea957f7e)
+
+# Overview: Detailed the functionalities and tools available to users.
+  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/278ae8b4-e16d-4dd7-bee2-18fef831c049)
+
+# Pricing: Presented various pricing plans for users to choose from.
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/24976eae-0be0-4ab4-93a6-c90512a79ddc)
+
+# FAQs: Addressed common queries and concerns through a comprehensive Frequently Asked Questions section.
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/c038a09c-49c0-49aa-a44a-2e809efe0834)
+
+# Contact: Provided contact details for users to get in touch with the support team.
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/ddef2f45-9079-4a08-b3ea-a32aaae1f707)
+
+# Login and Sign Up: Enabled users to create accounts and access additional features.
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/aa625a7c-ddb0-4ee4-a0fd-21e158857f21)
 
 **6. Technologies Used:**
 
