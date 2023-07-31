@@ -874,11 +874,13 @@ ul.faq p {
     color: #7d7d7d;
 }
 /*-- faq --*/
+
 /* chatbot */
 .iframe-container {
   position: relative;
   width: 100%;
   padding-bottom: 75%; /* Adjust this aspect ratio for different sizes (e.g., 4:3 -> 75%, 16:9 -> 56.25%) */
+	background-color: #1e2d3a;
 }
 
 .iframe-container iframe {
