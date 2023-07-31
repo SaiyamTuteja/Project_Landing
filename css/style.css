@@ -874,6 +874,19 @@ ul.faq p {
     color: #7d7d7d;
 }
 /*-- faq --*/
+.iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%; /* Adjust this aspect ratio for different sizes (e.g., 4:3 -> 75%, 16:9 -> 56.25%) */
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 /*-- contact --*/
 .styled-input {
