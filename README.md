@@ -44,25 +44,34 @@ The project followed an Agile development methodology, allowing for iterative an
 The Landing website offered the following key features:
 
 # Home: Provided an overview of the website's capabilities and key features.
-  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/f2af5f1e-18e6-45d2-bf07-bcc84fc69214)
+ ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/78ecd628-de91-4738-97e4-ad3d9762aca7)
+
   
 # Why Choose Us: Highlighted the advantages of using Landing for landing page creation.
-  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/3983e7d2-acaa-40ee-a539-320cea957f7e)
+ ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/276424de-f4b6-4ef7-aff1-4f97e87e3ad4)
+
 
 # Overview: Detailed the functionalities and tools available to users.
-  ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/278ae8b4-e16d-4dd7-bee2-18fef831c049)
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/9e71b417-b194-44de-ad29-675f2c76894c)
+
 
 # Pricing: Presented various pricing plans for users to choose from.
-![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/24976eae-0be0-4ab4-93a6-c90512a79ddc)
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/d51b2f03-a47b-49a1-8a68-44d5f16f1eb8)
+
 
 # FAQs: Addressed common queries and concerns through a comprehensive Frequently Asked Questions section.
-![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/c038a09c-49c0-49aa-a44a-2e809efe0834)
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/e7c995dc-6396-4f54-b724-f7d69b1a3079)
 
 # Contact: Provided contact details for users to get in touch with the support team.
 ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/ddef2f45-9079-4a08-b3ea-a32aaae1f707)
 
+# Chatbot Using Azure Services
+![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/f7e36acc-7bba-41f8-a130-ff7e30a9e834)
+
+
 # Login and Sign Up: Enabled users to create accounts and access additional features.
 ![image](https://github.com/SaiyamTuteja/Project_Landing/assets/119167105/aa625a7c-ddb0-4ee4-a0fd-21e158857f21)
+
 
 **6. Technologies Used:**
 
